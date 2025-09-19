@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\source\\repos\\gerenciamento\\gerenciamento\\gerenciamento.csproj": {}
+    "C:\\Users\\Aluno\\Documents\\GitHub\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\source\\repos\\gerenciamento\\gerenciamento\\gerenciamento.csproj": {
+    "C:\\Users\\Aluno\\Documents\\GitHub\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\source\\repos\\gerenciamento\\gerenciamento\\gerenciamento.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Documents\\GitHub\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento.csproj",
         "projectName": "gerenciamento",
-        "projectPath": "C:\\Users\\Aluno\\source\\repos\\gerenciamento\\gerenciamento\\gerenciamento.csproj",
+        "projectPath": "C:\\Users\\Aluno\\Documents\\GitHub\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\source\\repos\\gerenciamento\\gerenciamento\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Documents\\GitHub\\gerenciamento\\gerenciamento\\gerenciamento\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,20 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.4.0, )"
+            },
+            "iTextSharp": {
+              "target": "Package",
+              "version": "[5.5.13.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

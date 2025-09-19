@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = gerenciamento
-build_property.ProjectDir = C:\Users\Aluno\source\repos\gerenciamento\gerenciamento\
+build_property.ProjectDir = C:\Users\Aluno\Documents\GitHub\gerenciamento\gerenciamento\gerenciamento\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,13 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Aluno\\source\\repos\\gerenciamento\\",
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Documents\\GitHub\\gerenciamento\\gerenciamento\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|c:\\users\\aluno\\source\\repos\\gerenciamento\\gerenciamento\\frmfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|solutionrelative:gerenciamento\\frmfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|c:\\users\\aluno\\documents\\github\\gerenciamento\\gerenciamento\\gerenciamento\\frmfinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|solutionrelative:gerenciamento\\frmfinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|c:\\users\\aluno\\source\\repos\\gerenciamento\\gerenciamento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|c:\\users\\aluno\\documents\\github\\gerenciamento\\gerenciamento\\gerenciamento\\frmfinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|solutionrelative:gerenciamento\\frmfinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|c:\\users\\aluno\\documents\\github\\gerenciamento\\gerenciamento\\gerenciamento\\frmrelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|solutionrelative:gerenciamento\\frmrelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|c:\\users\\aluno\\documents\\github\\gerenciamento\\gerenciamento\\gerenciamento\\frmrelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|solutionrelative:gerenciamento\\frmrelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|c:\\users\\aluno\\documents\\github\\gerenciamento\\gerenciamento\\gerenciamento\\classe\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|solutionrelative:gerenciamento\\classe\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|c:\\users\\aluno\\documents\\github\\gerenciamento\\gerenciamento\\gerenciamento\\classe\\financeiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|solutionrelative:gerenciamento\\classe\\financeiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|c:\\users\\aluno\\documents\\github\\gerenciamento\\gerenciamento\\gerenciamento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|solutionrelative:gerenciamento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -23,30 +43,90 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FrmFuncionario.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\gerenciamento\\gerenciamento\\FrmFuncionario.cs",
-              "RelativeDocumentMoniker": "gerenciamento\\FrmFuncionario.cs",
-              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\gerenciamento\\gerenciamento\\FrmFuncionario.cs [Projeto]",
-              "RelativeToolTip": "gerenciamento\\FrmFuncionario.cs [Projeto]",
+              "Title": "FrmFinanceiro.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\gerenciamento\\gerenciamento\\gerenciamento\\FrmFinanceiro.cs",
+              "RelativeDocumentMoniker": "gerenciamento\\FrmFinanceiro.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\gerenciamento\\gerenciamento\\gerenciamento\\FrmFinanceiro.cs [Projeto]",
+              "RelativeToolTip": "gerenciamento\\FrmFinanceiro.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T14:03:05.203Z",
+              "WhenOpened": "2025-09-19T15:33:09.601Z",
               "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\gerenciamento\\gerenciamento\\Form1.cs",
-              "RelativeDocumentMoniker": "gerenciamento\\Form1.cs",
-              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\gerenciamento\\gerenciamento\\Form1.cs [Projeto]",
-              "RelativeToolTip": "gerenciamento\\Form1.cs [Projeto]",
+              "Title": "FrmFinanceiro.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\gerenciamento\\gerenciamento\\gerenciamento\\FrmFinanceiro.cs",
+              "RelativeDocumentMoniker": "gerenciamento\\FrmFinanceiro.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\gerenciamento\\gerenciamento\\gerenciamento\\FrmFinanceiro.cs",
+              "RelativeToolTip": "gerenciamento\\FrmFinanceiro.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAqwDIAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T14:00:57.457Z",
+              "WhenOpened": "2025-09-19T15:33:47.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmRelatorio.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\gerenciamento\\gerenciamento\\gerenciamento\\FrmRelatorio.cs",
+              "RelativeDocumentMoniker": "gerenciamento\\FrmRelatorio.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\gerenciamento\\gerenciamento\\gerenciamento\\FrmRelatorio.cs [Projeto]",
+              "RelativeToolTip": "gerenciamento\\FrmRelatorio.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:33:04.287Z",
               "EditorCaption": " [Projeto]"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmRelatorio.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\gerenciamento\\gerenciamento\\gerenciamento\\FrmRelatorio.cs",
+              "RelativeDocumentMoniker": "gerenciamento\\FrmRelatorio.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\gerenciamento\\gerenciamento\\gerenciamento\\FrmRelatorio.cs",
+              "RelativeToolTip": "gerenciamento\\FrmRelatorio.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAmwIEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:39:42.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "financeiro.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\gerenciamento\\gerenciamento\\gerenciamento\\Classe\\financeiro.cs",
+              "RelativeDocumentMoniker": "gerenciamento\\Classe\\financeiro.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\gerenciamento\\gerenciamento\\gerenciamento\\Classe\\financeiro.cs",
+              "RelativeToolTip": "gerenciamento\\Classe\\financeiro.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:53:56.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "conexao.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\gerenciamento\\gerenciamento\\gerenciamento\\Classe\\conexao.cs",
+              "RelativeDocumentMoniker": "gerenciamento\\Classe\\conexao.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\gerenciamento\\gerenciamento\\gerenciamento\\Classe\\conexao.cs",
+              "RelativeToolTip": "gerenciamento\\Classe\\conexao.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:29:55.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\gerenciamento\\gerenciamento\\gerenciamento\\Form1.cs",
+              "RelativeDocumentMoniker": "gerenciamento\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\gerenciamento\\gerenciamento\\gerenciamento\\Form1.cs [Projeto]",
+              "RelativeToolTip": "gerenciamento\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T11:47:59.85Z",
+              "EditorCaption": " [Projeto]"
             }
           ]
         }
