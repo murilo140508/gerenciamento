@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|c:\\users\\aluno\\downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\frmproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|solutionrelative:gerenciamento\\frmproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\classe\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|solutionrelative:gerenciamento\\classe\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\frmproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|solutionrelative:gerenciamento\\frmproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\frmfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|solutionrelative:gerenciamento\\frmfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\frmfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|solutionrelative:gerenciamento\\frmfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\frmfinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|solutionrelative:gerenciamento\\frmfinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\frmfinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|solutionrelative:gerenciamento\\frmfinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\classe\\financeiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|solutionrelative:gerenciamento\\classe\\financeiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|solutionrelative:gerenciamento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|c:\\users\\aluno\\downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|solutionrelative:gerenciamento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|c:\\users\\aluno\\downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\classe\\sessaofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|solutionrelative:gerenciamento\\classe\\sessaofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\frmrelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|solutionrelative:gerenciamento\\frmrelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\frmrelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AD60B76-4A87-428C-8B6E-69BACC877D46}|gerenciamento\\gerenciamento.csproj|solutionrelative:gerenciamento\\frmrelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmFinanceiro.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\FrmFinanceiro.cs",
+              "RelativeDocumentMoniker": "gerenciamento\\FrmFinanceiro.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\FrmFinanceiro.cs",
+              "RelativeToolTip": "gerenciamento\\FrmFinanceiro.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAD8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:33:47.92Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmFuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\FrmFuncionario.cs",
+              "RelativeDocumentMoniker": "gerenciamento\\FrmFuncionario.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\FrmFuncionario.cs",
+              "RelativeToolTip": "gerenciamento\\FrmFuncionario.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAAAI8AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T12:53:24.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmFuncionario.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\FrmFuncionario.cs",
+              "RelativeDocumentMoniker": "gerenciamento\\FrmFuncionario.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\FrmFuncionario.cs [Projeto]",
+              "RelativeToolTip": "gerenciamento\\FrmFuncionario.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T12:41:04.722Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "conexao.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\Classe\\conexao.cs",
+              "RelativeDocumentMoniker": "gerenciamento\\Classe\\conexao.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\Classe\\conexao.cs",
+              "RelativeToolTip": "gerenciamento\\Classe\\conexao.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:29:55.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmProduto.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\FrmProduto.cs",
+              "RelativeDocumentMoniker": "gerenciamento\\FrmProduto.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\FrmProduto.cs [Projeto]",
+              "RelativeToolTip": "gerenciamento\\FrmProduto.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T12:15:16.589Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmProduto.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\FrmProduto.cs",
+              "RelativeDocumentMoniker": "gerenciamento\\FrmProduto.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\FrmProduto.cs",
+              "RelativeToolTip": "gerenciamento\\FrmProduto.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAAwLEAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T12:17:22.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmFinanceiro.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\FrmFinanceiro.cs",
+              "RelativeDocumentMoniker": "gerenciamento\\FrmFinanceiro.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\FrmFinanceiro.cs [Projeto]",
+              "RelativeToolTip": "gerenciamento\\FrmFinanceiro.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:33:09.601Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "financeiro.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\Classe\\financeiro.cs",
+              "RelativeDocumentMoniker": "gerenciamento\\Classe\\financeiro.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\Classe\\financeiro.cs",
+              "RelativeToolTip": "gerenciamento\\Classe\\financeiro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:53:56.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\Form1.cs",
+              "RelativeDocumentMoniker": "gerenciamento\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\Form1.cs [Projeto]",
+              "RelativeToolTip": "gerenciamento\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T11:47:59.85Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\Form1.cs",
+              "RelativeDocumentMoniker": "gerenciamento\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\Form1.cs",
+              "RelativeToolTip": "gerenciamento\\Form1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T11:35:25.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sessaofuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\Classe\\Sessaofuncionario.cs",
+              "RelativeDocumentMoniker": "gerenciamento\\Classe\\Sessaofuncionario.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\Classe\\Sessaofuncionario.cs",
+              "RelativeToolTip": "gerenciamento\\Classe\\Sessaofuncionario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T12:08:08.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmRelatorio.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\FrmRelatorio.cs",
+              "RelativeDocumentMoniker": "gerenciamento\\FrmRelatorio.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\FrmRelatorio.cs [Projeto]",
+              "RelativeToolTip": "gerenciamento\\FrmRelatorio.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:33:04.287Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmRelatorio.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\FrmRelatorio.cs",
+              "RelativeDocumentMoniker": "gerenciamento\\FrmRelatorio.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\gerenciamento\\gerenciamento\\gerenciamento\\gerenciamento\\FrmRelatorio.cs",
+              "RelativeToolTip": "gerenciamento\\FrmRelatorio.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwHsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:39:42.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
